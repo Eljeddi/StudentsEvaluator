@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "558481903541",
+    "firebase_url": "https://studentsevaluator.firebaseio.com",
+    "project_id": "studentsevaluator",
+    "storage_bucket": "studentsevaluator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558481903541:android:7cee6d24eb974a51",
+        "android_client_info": {
+          "package_name": "com.apps2life.studentsevaluator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558481903541-53jspsqi7302trdpo2m0vmqe9oqihafc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps2life.studentsevaluator",
+            "certificate_hash": "11aa53ef66bb7885a32292a3aa8166eae40b0a5a"
+          }
+        },
+        {
+          "client_id": "558481903541-fpdr2au9n68nvjtom4osp3g46bjk32b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXr4NcMni8GUaGbkAZ_21l0oC8VH4_Wk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558481903541-fpdr2au9n68nvjtom4osp3g46bjk32b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
